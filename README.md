@@ -1,1 +1,2 @@
-# Solar-panel
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
